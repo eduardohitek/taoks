@@ -1,7 +1,6 @@
 package br.com.htk.taoks.crypt.test;
 
 import static org.junit.Assert.*;
-import static org.mockito.Mockito.doReturn;
 
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
